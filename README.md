@@ -2,7 +2,7 @@
 
 Meu nome é carolliny marques
 
-- Estou estudando no alura
+- Estou estudando no [alura](https://ww.alura.com.br)
 -  Estou me desenvolvendo na liguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
